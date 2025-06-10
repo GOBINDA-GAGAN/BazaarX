@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Rubik", sans-serif;
+  --color-bg-primary: #FEFFFE;
+  --text-mytext: #121212;
+  --btn-btn-color: #F6BB13;
+   --btn-hover-color: #e69500;
+}
